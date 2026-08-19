@@ -1,0 +1,25 @@
+﻿# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated Bulgarian outputs
+output/*
+!output/.gitkeep
+
+proofs_bg/*
+!proofs_bg/.gitkeep
+
+renders/bg/*
+!renders/bg/.gitkeep
+
+reports/bg/*
+!reports/bg/.gitkeep
+
+# Large immutable Italian reference
+references/*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
