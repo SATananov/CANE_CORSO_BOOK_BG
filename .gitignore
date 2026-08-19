@@ -26,3 +26,6 @@ Thumbs.db
 
 # Keep human-readable BG phase reports
 !reports/bg/*.md
+
+# Local recovered upstream source corpus for BG-03
+references/source_text/
