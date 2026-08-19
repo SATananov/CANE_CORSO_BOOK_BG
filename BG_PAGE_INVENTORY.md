@@ -1,163 +1,159 @@
 # CANE CORSO BOOK BG — 143-PAGE INVENTORY
 
 Phase: **BG-01**  
-Mode: **REPORT ONLY — DO NOT MODIFY THE PDF**
+Mode: **REPORT ONLY — DO NOT MODIFY THE PDF**  
+Reference: `references/PRIMA_E_DOPO_IL_CANE_CORSO_IT_MASTER_REFERENCE.pdf`  
+Inspection method: native PDF text/object inspection plus visual review of rendered pages; **no OCR used**.
 
-Classification options (recommended):
-- COVER
-- FRONT_MATTER
-- BODY_TEXT
-- TEXT_IMAGE
-- INFOGRAPHIC
-- TABLE
-- DIVIDER
-- DOSSIER
-- BIBLIOGRAPHY
-- BACK_MATTER
-- SPECIAL
+Definitions:
 
-| Page | Class | Body text | Heading | Caption | Table | Embedded IT text in image | Bibliography | Dog head | Reconstruction required | Difficulty | Notes |
-|---:|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 2 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 3 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 4 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 5 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 6 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 7 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 8 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 9 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 10 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 11 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 12 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 13 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 14 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 15 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 16 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 17 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 18 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 19 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 20 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 21 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 22 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 23 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 24 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 25 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 26 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 27 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 28 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 29 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 30 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 31 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 32 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 33 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 34 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 35 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 36 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 37 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 38 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 39 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 40 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 41 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 42 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 43 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 44 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 45 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 46 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 47 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 48 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 49 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 50 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 51 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 52 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 53 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 54 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 55 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 56 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 57 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 58 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 59 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 60 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 61 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 62 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 63 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 64 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 65 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 66 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 67 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 68 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 69 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 70 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 71 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 72 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 73 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 74 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 75 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 76 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 77 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 78 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 79 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 80 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 81 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 82 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 83 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 84 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 85 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 86 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 87 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 88 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 89 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 90 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 91 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 92 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 93 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 94 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 95 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 96 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 97 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 98 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 99 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 100 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 101 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 102 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 103 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 104 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 105 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 106 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 107 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 108 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 109 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 110 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 111 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 112 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 113 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 114 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 115 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 116 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 117 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 118 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 119 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 120 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 121 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 122 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 123 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 124 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 125 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 126 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 127 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 128 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 129 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 130 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 131 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 132 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 133 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 134 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 135 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 136 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 137 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 138 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 139 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 140 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 141 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 142 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
-| 143 | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | TBD | |
+- **Embedded IT text** means Italian lettering is integral to a photograph, screenshot, scan, map, diagram, plate, or other image-like graphic rather than ordinary page text.
+- **Reconstruction required** is **Yes** only where that language-dependent graphic will require clean rebuilding in a later authorized phase.
+- **Difficulty** is a translation-production risk estimate: LOW, MEDIUM, or HIGH.
+
+| Page | Class | Body text | Heading / subheading | Caption | Table | Infographic / diagram | Embedded IT text in image | Bibliography / references | Decorative Cane Corso head | Visual reconstruction required | Translation difficulty | Visual / special / review notes |
+|---:|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | COVER | No | Yes | No | No | No | Yes | No | No | Yes | HIGH | Full-bleed illustrated cover; Italian title/byline/tagline integral to artwork. |
+| 2 | FRONT_MATTER | No | Yes | No | No | No | No | No | Yes | No | LOW | Title/frontispiece; centered hierarchy and lower decorative head. |
+| 3 | FRONT_MATTER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Editorial note; dense text. |
+| 4 | FRONT_MATTER | No | Yes | No | Yes | No | No | No | Yes | No | LOW | Contents page 1; dotted leaders. |
+| 5 | FRONT_MATTER | No | Yes | No | Yes | No | No | No | Yes | No | LOW | Contents continuation; dotted leaders. |
+| 6 | FRONT_MATTER | Yes | Yes | Yes | No | No | Yes | No | No | Yes | HIGH | Chapter opener; artwork carries Italian title. |
+| 7 | FRONT_MATTER | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 8 | FRONT_MATTER | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 9 | FRONT_MATTER | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 10 | FRONT_MATTER | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 11 | FRONT_MATTER | Yes | Yes | Yes | No | No | Yes | No | No | Yes | HIGH | Book-cover montage contains Italian publication titles. |
+| 12 | FRONT_MATTER | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 13 | FRONT_MATTER | Yes | No | Yes | No | No | No | No | Yes | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 14 | FRONT_MATTER | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Method infographic with numbered labels and quote. |
+| 15 | FRONT_MATTER | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 16 | FRONT_MATTER | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | USG screenshot/QR graphic with substantial Italian UI text. |
+| 17 | FRONT_MATTER | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 18 | FRONT_MATTER | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Four-level methodology diagram. |
+| 19 | FRONT_MATTER | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 20 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part I divider. |
+| 21 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 22 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 23 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 24 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 25 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 26 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 27 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 28 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 29 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 30 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 31 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 32 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 33 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 34 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 35 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part II divider. |
+| 36 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 37 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 38 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 39 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 40 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 41 | TEXT_IMAGE | Yes | Yes | Yes | No | No | Yes | No | No | Yes | HIGH | Illustration includes Italian functional label. |
+| 42 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 43 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 44 | INFOGRAPHIC | Yes | No | Yes | No | Yes | Yes | No | No | Yes | HIGH | Functional plate with Italian labels. |
+| 45 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 46 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 47 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part III divider. |
+| 48 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Four-role plate with language-dependent labels. |
+| 49 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 50 | TEXT_IMAGE | Yes | Yes | Yes | No | No | Yes | No | Yes | Yes | HIGH | Butcher/dog plate includes Italian plate text. |
+| 51 | TEXT_IMAGE | Yes | Yes | Yes | No | No | Yes | No | No | Yes | HIGH | Bull-control illustration with Italian title. |
+| 52 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 53 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 54 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Annotated hunting illustration. |
+| 55 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | CONTROL: dense continuation; no decorative head. |
+| 56 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 57 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 58 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 59 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 60 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part IV divider. |
+| 61 | INFOGRAPHIC | Yes | Yes | Yes | Yes | Yes | Yes | No | No | Yes | HIGH | CONTROL: chapter opener dominated by embedded-text table. |
+| 62 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 63 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 64 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 65 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 66 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Color/dimensions infographic. |
+| 67 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 68 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Anatomy/function plate. |
+| 69 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 70 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | USG head-structure infographic. |
+| 71 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 72 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part V divider. |
+| 73 | TEXT_IMAGE | Yes | Yes | Yes | No | No | No | No | No | No | MEDIUM | Illustrated text page; caption outside artwork. |
+| 74 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 75 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 76 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Antique-testimony collage contains source lettering. |
+| 77 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 78 | DOSSIER | Yes | Yes | Yes | No | Yes | Yes | No | Yes | Yes | HIGH | CONTROL: master decorative-head identity; embedded methodology inset. |
+| 79 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Mediterranean/Orient map. |
+| 80 | DOSSIER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 81 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Rome/provinces map. |
+| 82 | DOSSIER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 83 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page functional-development graphic. |
+| 84 | DOSSIER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 85 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Balkans/Thrace/Bulgaria map. |
+| 86 | DOSSIER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 87 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page comparative atlas. |
+| 88 | DOSSIER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 89 | DOSSIER | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Dossier explanatory text opener. |
+| 90 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page world atlas. |
+| 91 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page western Europe atlas. |
+| 92 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Balkans/Caucasus/Asia atlas. |
+| 93 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Far East atlas. |
+| 94 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Africa atlas. |
+| 95 | DOSSIER | No | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Full-page Americas atlas. |
+| 96 | DOSSIER | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 97 | INFOGRAPHIC | Yes | Yes | Yes | Yes | Yes | Yes | No | No | Yes | HIGH | Historical-style regional-types table. |
+| 98 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Triptych with embedded headings. |
+| 99 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 100 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part VI divider. |
+| 101 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Pregnancy-development infographic. |
+| 102 | BODY_TEXT | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 103 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Birth-process infographic. |
+| 104 | BODY_TEXT | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 105 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Puppy-development infographic. |
+| 106 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Growth/exercise infographic. |
+| 107 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 108 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Growth-monitoring infographic. |
+| 109 | BODY_TEXT | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 110 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | Yes | Yes | HIGH | CONTROL: nutrition opener; large embedded-text graphic and head. |
+| 111 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 112 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 113 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Parasite-control infographic. |
+| 114 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 115 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 116 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | Yes | Yes | HIGH | CONTROL: skin/coat opener; embedded-text graphic and head. |
+| 117 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Skin/coat causes/signs infographic. |
+| 118 | BODY_TEXT | Yes | Yes | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 119 | BODY_TEXT | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 120 | DIVIDER | No | Yes | No | No | No | No | No | No | No | LOW | Black Part VII divider. |
+| 121 | TEXT_IMAGE | Yes | Yes | Yes | No | No | Yes | No | Yes | Yes | HIGH | CONTROL: photograph has prominent Italian signage; head. |
+| 122 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Territory-as-memory infographic. |
+| 123 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 124 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 125 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Passing-the-testimony infographic. |
+| 126 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 127 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 128 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Unwritten-stories infographic. |
+| 129 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 130 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | CONTROL: dense anecdotal text; head. |
+| 131 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | CONTROL: history-to-present infographic. |
+| 132 | BODY_TEXT | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 133 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Body/stress infographic. |
+| 134 | INFOGRAPHIC | Yes | Yes | Yes | No | Yes | Yes | No | No | Yes | HIGH | Temperament infographic. |
+| 135 | BODY_TEXT | Yes | No | No | No | No | No | No | No | No | MEDIUM | Standard cream body-text architecture. |
+| 136 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 137 | BODY_TEXT | Yes | No | No | No | No | No | No | Yes | No | MEDIUM | Standard cream body-text architecture. |
+| 138 | BIBLIOGRAPHY | Yes | Yes | No | No | No | No | Yes | No | No | MEDIUM | Chapter notes/source-status. |
+| 139 | BIBLIOGRAPHY | Yes | No | No | No | No | No | Yes | No | No | MEDIUM | Notes/source-status continuation. |
+| 140 | BIBLIOGRAPHY | Yes | Yes | No | No | No | No | Yes | Yes | No | MEDIUM | CONTROL: selected external sources; head. |
+| 141 | BIBLIOGRAPHY | Yes | No | No | No | No | No | Yes | Yes | No | MEDIUM | CONTROL: bibliography continuation/project note; head. |
+| 142 | BACK_MATTER | Yes | Yes | No | No | No | No | No | Yes | No | MEDIUM | Final note to reader. |
+| 143 | BACK_MATTER | No | Yes | No | No | No | No | No | No | No | LOW | Black end page. |
+
