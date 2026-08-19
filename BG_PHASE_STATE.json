@@ -1,10 +1,15 @@
 {
   "project": "CANE_CORSO_BOOK_BG",
   "edition": "Bulgarian",
-  "current_phase": "BG-01",
-  "last_completed_phase": "BG-00",
-  "current_mode": "REPORT_ONLY",
+  "current_phase": "BG-03",
+  "last_completed_phase": "BG-02",
+  "current_mode": "TEXT_MASTER",
   "human_approval_required_for_phase_transition": true,
+  "bg_02_human_approval_satisfied": true,
+  "phase_status": {
+    "BG-02": "COMPLETE",
+    "BG-03": "ACTIVE"
+  },
   "italian_reference": "references/PRIMA_E_DOPO_IL_CANE_CORSO_IT_MASTER_REFERENCE.pdf",
   "italian_reference_sha256": "A40848A9ADB49BD1A930418DA9167DBA9D1F61B33FCC1E33FD81E4090EB29170",
   "target_page_count": 143,
