@@ -1,0 +1,32 @@
+{
+  "graphic": "P018-GA",
+  "family": "SF-06",
+  "canonical_units": 16,
+  "class_distribution": {
+    "T": 12,
+    "R": 4,
+    "N": 0,
+    "G": 0,
+    "U": 0
+  },
+  "retained": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "files": {
+    "P018_BG_ACCEPTED_CANDIDATE.png": {
+      "sha256": "839A4BDE1C8AE6C1F196732A3656CC313C4EB4AB7F21153250793DE9717C9A83",
+      "bytes": 2564285
+    },
+    "P018_IT_BG_VISUAL_PROOF.png": {
+      "sha256": "9220A890D3E3F0AAB575144F3F92E86B52F1252AE6FDDC56C5DEF09A1E83E73D",
+      "bytes": 4259911
+    },
+    "P018_ACCEPTANCE_REPORT.md": {
+      "sha256": "D7873EEA7E74958CFD83635E38104A83EEED4E4064D7FCFA70C69EC7FF0FF737",
+      "bytes": 1513
+    }
+  }
+}
