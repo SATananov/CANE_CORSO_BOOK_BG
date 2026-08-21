@@ -1,0 +1,33 @@
+BG-05 BATCH 01 - SF-06
+
+BASELINE CHECKPOINT: a926008
+PHASE: BG-05
+MODE: IMAGE_RECONSTRUCTION
+
+SCOPE:
+P014-GA - 16 canonical units
+P018-GA - 16 canonical units
+P097-GA - 35 canonical units
+TOTAL - 67 canonical units
+
+PRODUCTION ORDER:
+1. P014
+2. P018
+3. P097
+
+P014 LOCKED TARGET:
+references/source_text/sf06_visual_targets/P014_RUOLO_INTERLOCUTORE_TARGET.png
+SHA256: DC2F86D744B879A41EDD393FAB34E1121217432A402D2DD32A7285FB662BEC34
+
+P014 WORKING COPY:
+assets_bg/BG05_BATCH01_SF06/P014/P014_BG_WORKING.png
+SHA256 INITIAL: DC2F86D744B879A41EDD393FAB34E1121217432A402D2DD32A7285FB662BEC34
+
+RULES:
+- references are immutable
+- canonical ledger is text authority
+- preserve illustration and geometry
+- replace only language-dependent text
+- no Bulgarian overlay over visible Italian text
+- no PDF work during Batch 01 reconstruction
+- each graphic requires independent proof before acceptance
